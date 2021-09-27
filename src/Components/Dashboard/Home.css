@@ -1,0 +1,23 @@
+ul {
+  list-style-type: none;
+}
+
+.link-element  {
+  background-color: burlywood;
+}
+
+.link-element ul li {
+  display: inline-block;
+  margin: 20px 12%;
+}
+
+.link-element ul li a{
+  color: black;
+  font-size: 18px;
+  font-family: monospace;
+  font-weight: bolder;
+}
+
+.link-element ul li a:active {
+  color: orange;
+}

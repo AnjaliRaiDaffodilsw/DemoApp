@@ -1,0 +1,13 @@
+.bar-graph {
+  display: flex;
+  justify-content: center;
+  margin-right: 12%;
+}
+
+.bar-graph-heading {
+  display: flex;
+  justify-content: center;
+  margin: 40px 76px 0 0;
+  font-family: monospace;
+  font-weight: bolder;
+}

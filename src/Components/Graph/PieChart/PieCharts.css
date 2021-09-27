@@ -1,0 +1,13 @@
+.pie-chart {
+  display: flex;
+  justify-content: center;
+  margin-left: 17%;   
+}
+
+.pie-chart-heading {
+  display: flex;
+  justify-content: center;
+  margin: 40px 0 -7% -4%;
+  font-family: monospace;
+  font-weight: bolder;
+}
